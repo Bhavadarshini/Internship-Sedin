@@ -5,7 +5,7 @@ This repository contains notes, projects, and daily updates documenting my inter
 ## Structure
 
 - **ROLE** — iOS Development Intern
-- **DURATION** — June 4th to Juky 1st
+- **DURATION** — June 4th to July 1st
 - **COMPANY** — Sedin technologies
 
 ## About
